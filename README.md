@@ -1,0 +1,2 @@
+# kyu
+A hobby architecture
